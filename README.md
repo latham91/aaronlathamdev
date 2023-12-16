@@ -1,8 +1,8 @@
 ## Aaron Latham
 
-### Front-end Developer
+### Aspiring Full Stack Developer
 
-Experienced front-end developer with expertise in HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express, and TailwindCSS. Passionate about creating user-friendly and visually appealing websites.
+Aspiring Full Stack Developer with expertise in HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express, and TailwindCSS. Passionate about creating user-friendly and visually appealing websites.
 
 ### Skills and Experience
 
