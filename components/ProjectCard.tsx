@@ -15,11 +15,11 @@ export default function ProjectCard() {
         className="object-cover h-[450px] w-full"
       />
       <div className="absolute top-4 right-4 flex items-center gap-4">
-        <Button size="sm" variant="secondary">
+        <Button size="sm" variant="default">
           <Github size={16} className="mr-2" />
           Github
         </Button>
-        <Button size="sm" variant="secondary">
+        <Button size="sm" variant="default">
           <Computer size={16} className="mr-2" />
           Live
         </Button>
