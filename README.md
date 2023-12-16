@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Aaron Latham
 
-## Getting Started
+### Front-end Developer
 
-First, run the development server:
+Experienced front-end developer with expertise in HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express, and TailwindCSS. Passionate about creating user-friendly and visually appealing websites.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Skills and Experience
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* **HTML:** Proficient in creating well-structured and semantic HTML markup.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* **CSS:** Experienced in using CSS to style and enhance websites with responsiveness and accessibility.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+* **JavaScript:** Familiar with JavaScript and its various functionalities, including DOM manipulation, event handling, and animation.
 
-## Learn More
+* **React.js:** Strong understanding of React.js and its core concepts, including hooks, components, and state management.
 
-To learn more about Next.js, take a look at the following resources:
+* **Next.js:** Experience building server-side rendered React applications using Next.js.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* **Node.js:** Familiar with Node.js and its ecosystem, including Express for creating API endpoints and server-side applications.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* **TailwindCSS:** Experienced in using TailwindCSS for rapid development and consistent styling across projects.
 
-## Deploy on Vercel
+### Contact
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+latham91@icloud.com
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Portfolio
+
+View my portfolio of work on [aaronlatham.dev](https://aaronlatham.dev).
+
+## How to Clone and Run the Site
+
+1. Clone the repository: `git clone <repository URL>`
+
+2. Navigate to the project directory: `cd aaronlathamdev`
+
+3. Install the dependencies: `npm install` or `yarn install`
+
+4. Run the development server: `npm run dev` or `yarn dev`
+
+5. Open your browser and navigate to [localhost:3000](http://localhost:3000)
+
+Your Next.js site should now be running locally.
