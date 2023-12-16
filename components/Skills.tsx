@@ -14,7 +14,7 @@ export default function Skills() {
             Here are some of the ever growing skills I have collected whilst on
             the quest to master web development.
           </p>
-          <div className="grid grid-cols-3 md:grid-cols-6 gap-x-5 gap-y-10">
+          <div className="grid grid-cols-3 md:grid-cols-6 gap-5">
             {skills.map((skill) => (
               <SkillCard name={skill.name} icon={skill.icon} key={skill.name} />
             ))}
