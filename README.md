@@ -30,7 +30,7 @@ View my portfolio of work on [aaronlatham.dev](https://aaronlatham.dev).
 
 ## How to Clone and Run the Site
 
-1. Clone the repository: `git clone <repository URL>`
+1. Clone the repository: `git clone https://github.com/latham91/aaronlathamdev.git`
 
 2. Navigate to the project directory: `cd aaronlathamdev`
 
