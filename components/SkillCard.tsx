@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function SkillCard({
   name,
   icon,
@@ -6,11 +8,15 @@ export default function SkillCard({
   icon: string;
 }) {
   return (
-    <div className="flex items-center justify-center flex-col gap-3">
-      <img src={icon} alt={`${name} Icon`} />
-      <h3 className="bg-foreground text-background px-5 py-2 rounded-md">
-        {name}
-      </h3>
+    <div className="flex items-center justify-center flex-col p-4 rounded-xl">
+      <Image
+        src={icon}
+        alt={`${name} Icon`}
+        draggable="false"
+        width={100}
+        height={100}
+      />
+      <h3 className="text-foreground mt-4 rounded-md">{name}</h3>
     </div>
   );
 }
