@@ -7,7 +7,9 @@ export default function Footer() {
     <footer className="p-6 bg-foreground text-secondary">
       <Container className="flex items-center justify-between px-5 flex-col md:flex-row gap-3">
         <div>&copy; aaronlatham.dev</div>
-        <div>Made using Next.js, TailwindCSS & shadcn-ui</div>
+        <div className="text-sm">
+          Made using Next.js, TailwindCSS & shadcn-ui
+        </div>
         <div className="flex items-center gap-5">
           <Link
             href="https://www.linkedin.com/in/aaron-latham-164a9b29b/"
