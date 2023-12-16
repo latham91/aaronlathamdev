@@ -8,7 +8,7 @@ export default function Projects() {
         <h2 className="text-5xl font-extrabold text-primary mb-5 drop-shadow-xl">
           Projects.
         </h2>
-        <p className="text-lg mb-10">
+        <p className="text-lg mb-10 font-mono">
           Journey through a collection of my most impactful and innovative
           projects, where I bring my web development and design expertise to
           life.
