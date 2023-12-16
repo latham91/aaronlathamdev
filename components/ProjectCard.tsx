@@ -5,14 +5,14 @@ import { Computer, Github } from "lucide-react";
 
 export default function ProjectCard() {
   return (
-    <div className="rounded-lg overflow-hidden relative h-[450px] border-[3px] border-secondary hover:shadow-lg transition duration-300 ease-in-out shadow-foreground">
+    <div className="group rounded-lg overflow-hidden relative h-[450px] border-[3px] border-secondary hover:shadow-lg transition duration-300 ease-in-out shadow-foreground">
       <Image
         src="/project-one.jpg"
         width={450}
         height={450}
         alt="Project One"
         draggable={false}
-        className="object-cover h-[450px] w-full"
+        className="object-cover h-[450px] w-full group-hover:scale-105 transition duration-300 ease-in-out"
       />
       <div className="absolute top-4 right-4 flex items-center gap-4">
         <Button size="sm" variant="default">

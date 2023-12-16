@@ -17,11 +17,11 @@ export default function Hero() {
           I build cool stuff for the web.
         </h2>
         <p className="max-w-3xl text-lg leading-8 mb-10 font-mono text-center md:text-start">
-          I&apos;m a junior fullstack engineer currently enrolled on the Code
-          Nation: Master Software bootcamp. My speciality is in designing modern
-          minimalist web apps, I&apos;m currently focusing on learning modern
-          web technologies such as Next.js, Typescript, Node.js, Express and
-          MongoDB.
+          I&apos;m an aspiring junior fullstack engineer currently enrolled on
+          the Code Nation: Master Software bootcamp. My speciality is in
+          designing modern minimalist web apps, I&apos;m currently focusing on
+          learning modern web technologies such as Next.js, Typescript, Node.js,
+          Express and MongoDB.
         </p>
         <div className="flex items-center gap-5 justify-center md:justify-start">
           <Link href="mailto:latham91@icloud.com">
