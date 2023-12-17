@@ -10,10 +10,14 @@ export default function Navbar() {
       <Container className="p-5">
         <nav className="flex justify-between items-center">
           <div className="text-3xl font-extrabold flex items-center">
-            <Link href="/">
+            <Link href="/" aria-label="Go to Homepage">
               aaron<span className="text-primary">latham</span>.
             </Link>
-            <Link href="https://github.com/latham91" target="_blank">
+            <Link
+              href="https://github.com/latham91"
+              target="_blank"
+              aria-label="View Aarons Github page"
+            >
               <Github size={24} className="ml-3" />
             </Link>
           </div>
