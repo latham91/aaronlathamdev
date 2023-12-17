@@ -26,7 +26,7 @@ export default function Hero() {
         <div className="flex items-center gap-5 justify-center md:justify-start">
           <Link
             href="mailto:latham91@icloud.com"
-            aria-label="Send email to Aaron"
+            aria-label="Contact Aaron via email"
           >
             <Button size="lg" className="hover:drop-shadow">
               <Mail size={16} className="mr-2" />
