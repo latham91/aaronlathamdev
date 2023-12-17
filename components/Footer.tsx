@@ -14,13 +14,21 @@ export default function Footer() {
           <Link
             href="https://www.linkedin.com/in/aaron-latham-164a9b29b/"
             target="_blank"
+            aria-label="View Aaronss LinkedIn profile"
           >
             <Linkedin size={16} />
           </Link>
-          <Link href="https://github.com/latham91" target="_blank">
+          <Link
+            href="https://github.com/latham91"
+            target="_blank"
+            aria-label="Go to Aarons Github page"
+          >
             <Github size={16} />
           </Link>
-          <Link href="mailto:latham91@icloud.com">
+          <Link
+            href="mailto:latham91@icloud.com"
+            aria-label="Send email to Aaron"
+          >
             <Mail size={16} />
           </Link>
         </div>

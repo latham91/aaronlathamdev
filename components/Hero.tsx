@@ -24,7 +24,10 @@ export default function Hero() {
           Express and MongoDB.
         </p>
         <div className="flex items-center gap-5 justify-center md:justify-start">
-          <Link href="mailto:latham91@icloud.com">
+          <Link
+            href="mailto:latham91@icloud.com"
+            aria-label="Send email to Aaron"
+          >
             <Button size="lg" className="hover:drop-shadow">
               <Mail size={16} className="mr-2" />
               Contact
@@ -33,6 +36,7 @@ export default function Hero() {
           <Link
             href="https://www.linkedin.com/in/aaron-latham-164a9b29b/"
             target="_blank"
+            aria-label="View Aarons LinkedIn profile"
           >
             <Button variant="outline" size="lg" className="hover:drop-shadow">
               <Globe size={16} className="mr-2" />
