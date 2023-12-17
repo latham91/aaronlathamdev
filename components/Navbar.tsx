@@ -10,7 +10,7 @@ export default function Navbar() {
       <Container className="p-5">
         <nav className="flex justify-between items-center">
           <div className="text-3xl font-extrabold flex items-center">
-            <Link href="/" aria-label="Go to Homepage">
+            <Link href="/" aria-label="aaronlatham.dev">
               aaron<span className="text-primary">latham</span>.
             </Link>
             <Link
