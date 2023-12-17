@@ -9,7 +9,7 @@ export default function Navbar() {
     <header className="sticky top-0 bg-background/10 backdrop-blur-md z-50 border-b">
       <Container className="p-5">
         <nav className="flex justify-between items-center">
-          <div className="text-3xl font-extrabold flex items-center">
+          <div className="text-xl md:text-3xl font-extrabold flex items-center">
             <Link href="/" aria-label="aaronlatham.dev">
               aaron<span className="text-primary">latham</span>.
             </Link>
@@ -18,7 +18,7 @@ export default function Navbar() {
               target="_blank"
               aria-label="View Aarons Github page"
             >
-              <Github size={24} className="ml-3" />
+              <Github size={24} className="ml-3 hidden md:block" />
             </Link>
           </div>
 
