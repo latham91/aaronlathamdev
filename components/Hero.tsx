@@ -10,10 +10,10 @@ export default function Hero() {
         <h4 className="text-lg font-mono text-secondary-foreground mb-3 text-center md:text-start">
           Hello, my name is
         </h4>
-        <h1 className="text-7xl font-extrabold text-primary text-center md:text-start">
+        <h1 className="text-6xl md:text-7xl font-extrabold text-primary text-center md:text-start">
           Aaron Latham.
         </h1>
-        <h2 className="text-6xl font-extrabold text-primary/80 mb-5 text-center md:text-start">
+        <h2 className="text-5xl md:text-6xl font-extrabold text-primary/80 mb-5 text-center md:text-start">
           I build cool stuff for the web.
         </h2>
         <p className="max-w-3xl text-lg leading-8 mb-10 font-mono text-center md:text-start">
