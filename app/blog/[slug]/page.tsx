@@ -15,10 +15,9 @@ export default async function page({ params }: { params: { slug: string } }) {
 
   return (
     <Container className="px-5 py-10 h-[calc(100vh-153px)]">
-      <Markdown
-        children={content}
-        className="prose dark:prose-invert prose-neutral prose-p:font-mono prose-p:text-foreground prose-code:font-mono"
-      />
+      <Markdown className="prose dark:prose-invert prose-neutral prose-p:font-mono prose-p:text-foreground prose-code:font-mono">
+        {content}
+      </Markdown>
     </Container>
   );
 }
