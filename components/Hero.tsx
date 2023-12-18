@@ -1,9 +1,15 @@
+"use client";
+
 import { Globe, Mail } from "lucide-react";
 import Container from "./Container";
 import { Button } from "./ui/button";
 import Link from "next/link";
+import Image from "next/image";
+
+import { useTheme } from "next-themes";
 
 export default function Hero() {
+  const { theme } = useTheme();
   return (
     <Container className="px-5 py-14 relative">
       <div>
