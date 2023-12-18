@@ -1,4 +1,4 @@
-**Day 1 of the Code Nation Master Software Bootcamp**
+# Day 1 of the Code Nation Master Software Bootcamp
 
 I'm thrilled to share that I've embarked on the Code Nation: Master Software Bootcamp! My fascination with coding has led me to this exciting endeavor, marking the beginning of my journey towards becoming a full-stack developer.
 
