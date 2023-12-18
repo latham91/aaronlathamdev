@@ -14,7 +14,7 @@ export default async function page({ params }: { params: { slug: string } }) {
   const content = await getMarkdown(params.slug);
 
   return (
-    <Container className="px-5 py-10">
+    <Container className="px-5 py-10 flex justify-center">
       <Markdown className="prose dark:prose-invert prose-neutral prose-p:font-mono prose-p:text-foreground prose-code:font-mono">
         {content}
       </Markdown>
