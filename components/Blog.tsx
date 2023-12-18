@@ -15,9 +15,10 @@ export default function Blog() {
 
           <div className="grid grid-cols-1 gap-5">
             <BlogCard
-              slug="post-one"
-              desc="This is a short description, it must be 125 characters or less"
-              date="18th December 2023"
+              slug="cn-day-one"
+              title="Day 1 - Code Nation: Master Software Bootcamp"
+              desc="I'm thrilled to share that I've embarked on the Code Nation: Master Software Bootcamp! My fascination with coding has led me to this exciting endeavor, marking the beginning of my journey towards becoming a full-stack developer."
+              date="11th December 2023"
             />
           </div>
         </div>
