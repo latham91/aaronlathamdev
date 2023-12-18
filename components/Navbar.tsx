@@ -1,4 +1,4 @@
-import { Github } from "lucide-react";
+import { Github, Mail } from "lucide-react";
 import Container from "./Container";
 import { ModeToggle } from "./mode-toggle";
 import { Button } from "./ui/button";
@@ -24,7 +24,15 @@ export default function Navbar() {
 
           <div className="flex items-center gap-10">
             <div className="flex items-center gap-3">
-              <Button>Resume</Button>
+              <Button>Résumé</Button>
+              <Link
+                href="mailto:latham91@icloud.com"
+                aria-label="Send email to Aaron"
+              >
+                <Button variant="secondary" size="icon">
+                  <Mail size={24} />
+                </Button>
+              </Link>
               <ModeToggle />
             </div>
           </div>

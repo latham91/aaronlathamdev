@@ -14,9 +14,11 @@ export default function Blog() {
           </p>
 
           <div className="grid grid-cols-1 gap-5">
-            <BlogCard />
-            <BlogCard />
-            <BlogCard />
+            <BlogCard
+              slug="post-one"
+              desc="This is a short description, it must be 125 characters or less"
+              date="18th December 2023"
+            />
           </div>
         </div>
       </Container>
