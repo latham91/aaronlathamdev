@@ -17,7 +17,7 @@ export default function Hero() {
           I build cool stuff for the web.
         </h2>
         <p className="max-w-3xl text-lg leading-8 mb-10 font-mono text-center md:text-start">
-          I&apos;m an aspiring junior fullstack engineer currently enrolled on
+          I&apos;m an aspiring junior fullstack developer currently enrolled on
           the Code Nation: Master Software bootcamp. My speciality is in
           designing modern minimalist web apps, I&apos;m currently focusing on
           learning modern web technologies such as Next.js, Typescript, Node.js,
