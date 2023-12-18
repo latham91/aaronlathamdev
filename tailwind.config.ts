@@ -79,6 +79,10 @@ module.exports = {
         "accordion-up": "accordion-up 0.2s ease-out",
         "blob-rotate": "blob-rotate 4s linear infinite",
       },
+      backgroundImage: {
+        "hero-pattern-light": 'url("/images/hideout-light.svg")',
+        "hero-pattern-dark": 'url("/images/hideout-dark.svg")',
+      },
     },
   },
   plugins: [require("tailwindcss-animate"), require("@tailwindcss/typography")],
