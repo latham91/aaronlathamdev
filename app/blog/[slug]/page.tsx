@@ -2,7 +2,7 @@ import Markdown from "react-markdown";
 import Container from "@/components/Container";
 
 const getMarkdown = async (slug: string) => {
-  const markdown = await fetch(`http://localhost:3000/posts/${slug}`, {
+  const markdown = await fetch(`https://aaronlatham.dev/posts/${slug}`, {
     cache: "no-cache",
   });
   const data = await markdown.text();
