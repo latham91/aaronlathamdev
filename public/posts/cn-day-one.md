@@ -2,15 +2,9 @@
 
 I'm thrilled to share that I've embarked on the Code Nation: Master Software Bootcamp! My fascination with coding has led me to this exciting endeavor, marking the beginning of my journey towards becoming a full-stack developer.
 
-<br>
-
 The initial hours of the bootcamp were truly engaging. I had the opportunity to connect with the other cohorts who will be collaborating with me on this path, exchanging thoughts and experiences. We also had our first lesson on [HTML & CSS](https://www.w3schools.com/html/), which served as a refreshing reminder of the fundamentals. While I already possess a decent understanding of [HTML & CSS](https://www.w3schools.com/html/), I'm always eager to extend my support to fellow students who may require assistance.
 
-<br>
-
 I eagerly anticipate delving deeper into the world of coding and honing my skills. [Collaboration](http://www.codenation.com/collaboration) with my cohorts and the collective building of projects further fuels my excitement. While I acknowledge the challenges that lie ahead, I'm confident in my ability to succeed.
-
-<br>
 
 Here's a glimpse into the subjects I'm eagerly anticipating exploring throughout the bootcamp:
 
@@ -29,8 +23,6 @@ Here's a glimpse into the subjects I'm eagerly anticipating exploring throughout
 * [Collaborating effectively with project managers and testing teams](https://www.indeed.com/career-advice/career-development/agile-environment)
 * [Approaching problem-solving in the realm of technology](https://www.coursera.org/learn/algorithms-and-problem-solving)
 * [Gaining insights from industry experts](https://www.udacity.com/course/learning-to-learn-free)
-
-<br>
 
 The future holds immense possibilities, and I'm eager to embrace them all.
 
