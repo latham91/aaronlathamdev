@@ -8,21 +8,17 @@ I eagerly anticipate delving deeper into the world of coding and honing my skill
 
 Here's a glimpse into the subjects I'm eagerly anticipating exploring throughout the bootcamp:
 
-* [JavaScript](https://www.javascript.com/)
-* [React.js](https://reactjs.org/)
-* [Node.js](https://nodejs.org/en/)
-* [SQL](https://www.sqlcourse.com/)
-* [Databases](https://www.guru99.com/database-management-systems-tutorial.html)
-* [Full-stack web application development](https://www.freecodecamp.org/learn/front-end-development/full-stack-javascript)
-* [Project-based and challenge-driven learning](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd002)
-* [Test-driven development](https://www.martinfowler.com/articles/tdd.html)
-* [Navigating an agile environment](https://www.indeed.com/career-advice/career-development/agile-environment)
-* [Mastering Kanban, timesheets, and Trello](https://www.trello.com/)
-* [Comprehending the lifecycle of a technical project](https://www.projectmanager.com/blog/project-management/project-lifecycle-steps)
-* [Assuming development and technical responsibilities to project managers and client-services](https://www.coursera.org/professional-certificates/coursera-project-management-certificate)
-* [Collaborating effectively with project managers and testing teams](https://www.indeed.com/career-advice/career-development/agile-environment)
-* [Approaching problem-solving in the realm of technology](https://www.coursera.org/learn/algorithms-and-problem-solving)
-* [Gaining insights from industry experts](https://www.udacity.com/course/learning-to-learn-free)
+-   [JavaScript](https://www.javascript.com/)
+-   [React.js](https://reactjs.org/)
+-   [Node.js](https://nodejs.org/en/)
+-   [SQL](https://www.sqlcourse.com/)
+-   Databases
+-   Full-stack web application development
+-   Test-driven development
+-   Navigating an agile environment
+-   Mastering Kanban, timesheets, and Trello
+-   [Approaching problem-solving in the realm of technology](https://www.coursera.org/learn/algorithms-and-problem-solving)
+-   [Gaining insights from industry experts](https://www.udacity.com/course/learning-to-learn-free)
 
 The future holds immense possibilities, and I'm eager to embrace them all.
 
