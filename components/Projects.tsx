@@ -10,30 +10,6 @@ const projects = [
         live: "https://golfclub-website.vercel.app",
         tags: ["Next.js", "Tailwind CSS"],
     },
-    {
-        title: "Golf Club Landing",
-        desc: "A modern redesign of my local golf club's website, to improve the overall user experience and design while maintaining a professional look.",
-        image: "/images/golf-club-website-mockup.png",
-        github: "https://github.com/latham91/golfclub",
-        live: "https://golfclub-website.vercel.app",
-        tags: ["Next.js", "Tailwind CSS"],
-    },
-    {
-        title: "Golf Club Landing",
-        desc: "A modern redesign of my local golf club's website, to improve the overall user experience and design while maintaining a professional look.",
-        image: "/images/golf-club-website-mockup.png",
-        github: "https://github.com/latham91/golfclub",
-        live: "https://golfclub-website.vercel.app",
-        tags: ["Next.js", "Tailwind CSS"],
-    },
-    {
-        title: "Golf Club Landing",
-        desc: "A modern redesign of my local golf club's website, to improve the overall user experience and design while maintaining a professional look.",
-        image: "/images/golf-club-website-mockup.png",
-        github: "https://github.com/latham91/golfclub",
-        live: "https://golfclub-website.vercel.app",
-        tags: ["Next.js", "Tailwind CSS"],
-    },
 ];
 
 export default function Projects() {
