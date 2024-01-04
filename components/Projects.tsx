@@ -10,6 +10,14 @@ const projects = [
         live: "https://golfclub-website.vercel.app",
         tags: ["Next.js", "Tailwind CSS"],
     },
+    {
+        title: "Portfolio Website v1",
+        desc: "Version 1 of my portfolio website, using modern web technologies to create a fast, responsive and accessible website.",
+        image: "/images/aaronlathamdev-mockup.png",
+        github: "https://github.com/latham91/aaronlathamdev",
+        live: "https://aaronlatham.dev",
+        tags: ["Next.js", "Tailwind CSS", "shadcn-ui"],
+    },
 ];
 
 export default function Projects() {
