@@ -4,7 +4,7 @@ const nextConfig = {};
 const withPWA = require("next-pwa")({
     dest: "public",
     register: true,
-    skipoWaiting: true,
+    skipWaiting: true,
 });
 
 module.exports = withPWA(nextConfig);
