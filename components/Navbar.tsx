@@ -5,39 +5,34 @@ import { Button } from "./ui/button";
 import Link from "next/link";
 
 export default function Navbar() {
-  return (
-    <header className="sticky top-0 bg-background/10 backdrop-blur-md z-50 border-b">
-      <Container className="p-5">
-        <nav className="flex justify-between items-center">
-          <div className="text-xl md:text-3xl font-extrabold flex items-center">
-            <Link href="/" aria-label="aaronlatham.dev">
-              aaron<span className="text-primary">latham</span>.
-            </Link>
-            <Link
-              href="https://github.com/latham91"
-              target="_blank"
-              aria-label="View Aarons Github page"
-            >
-              <Github size={24} className="ml-3 hidden md:block" />
-            </Link>
-          </div>
+    return (
+        <header className="sticky top-0 bg-background/10 backdrop-blur-md z-50 border-b">
+            <Container className="p-5">
+                <nav className="flex justify-between items-center">
+                    <div className="text-xl md:text-3xl font-extrabold flex items-center">
+                        <Link href="/" aria-label="aaronlatham.dev">
+                            aaron<span className="text-primary">latham</span>.
+                        </Link>
+                        <Link href="https://github.com/latham91" target="_blank" aria-label="View Aarons Github page">
+                            <Github size={24} className="ml-3 hidden md:block" />
+                        </Link>
+                    </div>
 
-          <div className="flex items-center gap-10">
-            <div className="flex items-center gap-3">
-              <Button>Résumé</Button>
-              <Link
-                href="mailto:latham91@icloud.com"
-                aria-label="Send email to Aaron"
-              >
-                <Button variant="secondary" size="icon">
-                  <Mail size={24} />
-                </Button>
-              </Link>
-              <ModeToggle />
-            </div>
-          </div>
-        </nav>
-      </Container>
-    </header>
-  );
+                    <div className="flex items-center gap-10">
+                        <div className="flex items-center gap-3">
+                            <Link href="/aaron-cv.pdf" aria-label="View Aarons CV">
+                                <Button>Résumé</Button>
+                            </Link>
+                            <Link href="mailto:latham91@icloud.com" aria-label="Send email to Aaron">
+                                <Button variant="secondary" size="icon">
+                                    <Mail size={24} />
+                                </Button>
+                            </Link>
+                            <ModeToggle />
+                        </div>
+                    </div>
+                </nav>
+            </Container>
+        </header>
+    );
 }
