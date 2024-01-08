@@ -1,4 +1,5 @@
 import Markdown from "react-markdown";
+import rehypeHighlight from "rehype-highlight";
 import Container from "@/components/Container";
 
 const getMarkdown = async (slug: string) => {
@@ -15,7 +16,10 @@ export default async function page({ params }: { params: { slug: string } }) {
 
     return (
         <Container className="px-5 py-10 flex justify-center">
-            <Markdown className="prose dark:prose-invert prose-neutral prose-p:font-mono prose-p:text-foreground prose-code:font-mono">
+            <Markdown
+                rehypePlugins={[rehypeHighlight]}
+                className="prose dark:prose-invert prose-neutral prose-p:font-mono prose-p:text-foreground prose-code:font-mono"
+            >
                 {content}
             </Markdown>
         </Container>
