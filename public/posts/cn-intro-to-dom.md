@@ -1,7 +1,7 @@
 # Week-3: Code Nation Master Software Bootcamp
 
 ![Document Object Model Tree](https://www.lambdatest.com/blog/wp-content/uploads/2023/01/image18-27.png)
-[^fn1]: image courtesy of [lambdatest.com](lambdatest.com)
+_image courtesy of [lambdatest.com](lambdatest.com)_
 
 Hey there, fellow code enthusiasts! Week 3 at the awesome Code Nation Master Software Bootcamp has been a wild ride into the heart of web development. This time around, we've been diving deep into the Document Object Model (DOM) and the playful world of JavaScript magic.
 
