@@ -1,5 +1,7 @@
 # Week 2 - Code Nation: Master Software
 
+---
+
 Welcome back from the festive holidays! Jumping straight into the coding realm has been exhilarating. This week, we embark on an exciting journey into the intricate world of JavaScript.
 
 Day one kicked things off with an intriguing challenge: crafting a program to swiftly calculate days until your birthday—a handy tool for planning those cherished celebrations!

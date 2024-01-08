@@ -3,6 +3,8 @@
 ![Code Nation Logo](https://ripplz.co.uk/static/code-nation-logo-6b1b26f34aa37a48ac086ab2340456a2.png)
 _image courtesy of [Code Nation](https://wearecodenation.com)_
 
+---
+
 I'm thrilled to share that I've embarked on the Code Nation: Master Software Bootcamp! My fascination with coding has led me to this exciting endeavor, marking the beginning of my journey towards becoming a full-stack developer.
 
 The initial hours of the bootcamp were engaging. I had the opportunity to connect with the other cohorts who will be collaborating with me on this path, exchanging thoughts and experiences. We also had our first lesson on [HTML & CSS](https://www.w3schools.com/html/), which served as a refreshing reminder of the fundamentals. While I already possess a decent understanding of [HTML & CSS](https://www.w3schools.com/html/), I'm always eager to extend my support to fellow students who may require assistance.
