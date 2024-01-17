@@ -4,7 +4,6 @@ import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-
 const rubik = Rubik({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
