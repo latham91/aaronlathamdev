@@ -32,7 +32,7 @@ export default function Hero() {
                             </Button>
                         </Link>
                         <Link
-                            href="https://www.linkedin.com/in/aaron-latham-164a9b29b/"
+                            href="https://www.linkedin.com/in/aaronlathamdev"
                             target="_blank"
                             aria-label="View Aarons LinkedIn profile"
                         >

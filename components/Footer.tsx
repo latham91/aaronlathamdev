@@ -10,7 +10,7 @@ export default function Footer() {
                 <div className="text-xs md:text-sm">Made using Next.js, TailwindCSS & shadcn-ui</div>
                 <div className="flex items-center gap-5">
                     <Link
-                        href="https://www.linkedin.com/in/aaron-latham-164a9b29b/"
+                        href="https://www.linkedin.com/in/aaronlathamdev"
                         target="_blank"
                         aria-label="View Aaronss LinkedIn profile"
                     >
